@@ -1,0 +1,1 @@
+# warspotting-scraper
